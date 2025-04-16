@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Vaishnavi Gajanan Deshmukh
 
-<!--
-**vaishnavid07/vaishnavid07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys crafting clean and functional web applications. I specialize in **PHP**, **Laravel**, **JavaScript**, and front-end development, and I love turning ideas into interactive digital experiences.
 
-Here are some ideas to get you started:
+🌐 Check out my portfolio: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- 🛠️ Languages: PHP, JavaScript, HTML5, CSS3
+- ⚙️ Frameworks: Laravel, Bootstrap, jQuery
+- 🗄️ Database: MySQL
+- 🧰 Tools: VS Code, Git, GitHub, Postman
+- 🌐 Web: REST APIs, AJAX, JSON
+
+## 📈 Current Focus
+- Building production-ready systems using Laravel
+- Designing intuitive UI/UX interfaces
+- Enhancing my portfolio with real-world projects
+
+## 📫 Let's Connect!
+- GitHub: [vaishnavid07](https://github.com/vaishnavid07)
+- Portfolio: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
+- LinkedIn: *Add your LinkedIn if you want*
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by!
