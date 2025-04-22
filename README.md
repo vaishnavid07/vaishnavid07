@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys crafting cle
 ## 📈 Current Focus
 - Building production-ready systems using Laravel
 - Designing intuitive UI/UX interfaces
-- Enhancing my portfolio with real-world projects
 
 ## 📫 Let's Connect!
 - GitHub: [vaishnavid07](https://github.com/vaishnavid07)
