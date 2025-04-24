@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys crafting cle
 - GitHub: [vaishnavid07](https://github.com/vaishnavid07)
 - Portfolio: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
 - LinkedIn: [vaishnavi](https://www.linkedin.com/in/vaishnavi-deshmukh-352881212/)
----
 
 
 Thanks for stopping by!
