@@ -20,5 +20,4 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys crafting cle
 - Portfolio: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
 - LinkedIn: [vaishnavi](https://www.linkedin.com/in/vaishnavi-deshmukh-352881212/)
 
-
 Thanks for stopping by!
