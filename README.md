@@ -8,9 +8,9 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 
 ## 💻 Tech Stack
 
-* **Languages**: PHP, JavaScript, HTML5, CSS3
+* **Languages**:Node.js, PHP, JavaScript, HTML5, CSS3
 * **Frameworks & Libraries**: Laravel, jQuery, Bootstrap
-* **Database**: MySQL
+* **Database**: MySQL, MongoDB
 * **Tools & Platforms**: Git, GitHub, VS Code, Postman
 * **Web Technologies**: RESTful APIs, AJAX, JSON
 
