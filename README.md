@@ -30,6 +30,7 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 * 📍 **GitHub**: [@vaishnavid07](https://github.com/vaishnavid07)
 * 💼 **LinkedIn**: [Vaishnavi Deshmukh](https://www.linkedin.com/in/vaishnavi-deshmukh-352881212/)
 * 🌐 **Portfolio**: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
+*     **Peerlist**:  [vaishnavi01](https://peerlist.io/vaishnavi01)
 
 ---
 
