@@ -1,4 +1,4 @@
- 👋 Hi, I'm Vaishnavi Deshmukh
+👋 Hi, I'm Vaishnavi Deshmukh
 
 Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Developer** with a strong focus on **backend development using PHP and Laravel**, and a keen eye for **intuitive front-end interfaces**. I enjoy transforming ideas into robust and scalable digital solutions.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 
 ## 💻 Tech Stack
 
-* **Languages**:Node.js, PHP, JavaScript, HTML5, CSS3
+* **Languages**: Node.js, PHP, JavaScript, HTML5, CSS3
 * **Frameworks & Libraries**: Laravel, jQuery, Bootstrap
 * **Database**: MySQL, MongoDB
 * **Tools & Platforms**: Git, GitHub, VS Code, Postman
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 * 📍 **GitHub**: [@vaishnavid07](https://github.com/vaishnavid07)
 * 💼 **LinkedIn**: [Vaishnavi Deshmukh](https://www.linkedin.com/in/vaishnavi-deshmukh-352881212/)
 * 🌐 **Portfolio**: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
-*     **Peerlist**:  [vaishnavi01](https://peerlist.io/vaishnavi01)
+* 🟢 **Peerlist**: [vaishnavi01](https://peerlist.io/vaishnavi01)
 
 ---
 
