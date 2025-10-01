@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Developer** with a strong focus on **backend development using PHP and Laravel**, and a keen eye for **intuitive front-end interfaces**. I enjoy transforming ideas into robust and scalable digital solutions.
 
-🌐 **Portfolio**: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
+🌐 **Portfolio**: [view](https://vaishu.me/)
 
 ---
 
