@@ -20,8 +20,10 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 
 * Developing **production-ready Laravel applications**
 * Building **modular, maintainable backend logic**
-* Creating **clean and user-friendly UI/UX designs**
+* Creating **clean and user-friendly UI/UX designs** using **ReactJS**
+* Building **interactive frontends** and **SPAs** with ReactJS
 * Integrating **third-party APIs** and optimizing performance
+
 
 ---
 
