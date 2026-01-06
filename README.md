@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 <br/>
 
 
+
 ## 💻 Tech Stack
 
 * **Languages**: Node.js, PHP, JavaScript, HTML5, CSS3
@@ -15,6 +16,7 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 * **Web Technologies**: RESTful APIs, AJAX, JSON
 
 ---
+
 
 ## 🎯 Current Focus
 
@@ -26,6 +28,7 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 
 
 ---
+
 
 ## 🤝 Let's Connect
 * 📩 **Email**: [vaishnavi.deshmukh201@gmail.com](mailto:vaishnavi.deshmukh201@gmail.com)
