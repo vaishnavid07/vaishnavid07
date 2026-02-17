@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 🌐 **Portfolio**: [vaishu.me](https://vaishu.me/)
 <br/>
 
-
-
 ## 💻 Tech Stack
 
 * **Languages**: Node.js, PHP, JavaScript, HTML5, CSS3
@@ -25,7 +23,6 @@ Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Devel
 * Creating **clean and user-friendly UI/UX designs** using **ReactJS**
 * Building **interactive frontends** and **SPAs** with ReactJS
 * Integrating **third-party APIs** and optimizing performance
-
 
 ---
 
