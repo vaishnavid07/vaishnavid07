@@ -2,12 +2,11 @@
 
 Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Developer** with a strong focus on **backend development using PHP and Laravel**, and a keen eye for **intuitive front-end interfaces**. I enjoy transforming ideas into robust and scalable digital solutions.
 
-🌐 **Portfolio**: [vaishu.me](https://vaishu.me/)
 <br/>
 
 ## 💻 Tech Stack
 
-* **Languages**: Node.js, PHP, JavaScript, HTML5, CSS3
+* **Languages**: React Native CLI, Node.js, PHP, JavaScript, HTML5, CSS3
 * **Frameworks & Libraries**: ReactJS, Laravel, jQuery, Bootstrap
 * **Database**: MySQL, MongoDB
 * **Tools & Platforms**: Git, GitHub, VS Code, Postman
