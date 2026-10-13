@@ -1,61 +1,68 @@
-👋 Hi, I'm **Vaishnavi Deshmukh**
+# 👋 Hey there, I'm Vaishnavi Deshmukh
 
-Welcome to my GitHub! I'm a dedicated and detail-oriented **Full-Stack Web Developer** with a strong focus on **backend development using PHP and Laravel**, and a keen eye for **intuitive front-end interfaces**. I enjoy transforming ideas into robust, scalable digital solutions — both for the web and mobile platforms.
+**Full-Stack Developer | Backend Craftswoman | Mobile App Builder**
 
-<br/>
-
-## 💻 Tech Stack
-
-* **Languages**: JavaScript, TypeScript, PHP, HTML5, CSS3
-* **Frontend**: ReactJS, React Native CLI, jQuery, Bootstrap
-* **Backend**: Node.js, Laravel
-* **Mobile**: React Native CLI (cross-platform Android & iOS apps)
-* **Database**: MySQL, MongoDB
-* **Tools & Platforms**: Git, GitHub, VS Code, Postman, Android Studio, Xcode
-* **Web Technologies**: RESTful APIs, AJAX, JSON, Axios
+I don’t just write code — I turn ideas into clean, scalable, and delightful digital experiences.  
+Whether it’s a robust Laravel backend or a smooth React Native CLI mobile app, I love building things that actually work in the real world.
 
 ---
 
-## 🎯 Current Focus
+### 💻 What I Work With
 
-* Developing **production-ready Laravel applications** with clean, modular architecture
-* Building **maintainable backend logic** and RESTful APIs
-* Creating **clean and user-friendly UI/UX** using ReactJS
-* Building **interactive frontends** and **SPAs** with ReactJS
-* Developing **cross-platform mobile apps** using **React Native CLI**
-  - Native module integration & performance optimization
-  - Navigation (React Navigation)
-  - State management (Context API / Redux / Zustand)
-  - Working with device APIs (camera, location, storage, push notifications)
-  - Building smooth, responsive UIs for both Android and iOS
-* Integrating **third-party APIs** and optimizing application performance
-* Creating **user-friendly mobile experiences** from idea to production-ready apps
+| Area              | Technologies                                      |
+|-------------------|---------------------------------------------------|
+| **Languages**     | JavaScript, TypeScript, PHP, HTML5, CSS3          |
+| **Frontend**      | ReactJS, React Native CLI, Bootstrap, jQuery      |
+| **Backend**       | Laravel, Node.js                                  |
+| **Mobile**        | React Native CLI (Android + iOS)                  |
+| **Database**      | MySQL, MongoDB                                    |
+| **Tools**         | Git, GitHub, VS Code, Postman, Android Studio     |
 
 ---
 
-## 📱 Mobile Development with React Native CLI
+### 🎯 Currently Obsessed With
 
-I build performant, production-grade mobile applications using **React Native CLI** (not Expo), giving me full control over native modules, custom configurations, and performance tuning.
-
-**What I work on:**
-- Setting up and maintaining React Native CLI projects from scratch
-- Bridging JavaScript with native Android (Java/Kotlin) and iOS (Objective-C/Swift) code when needed
-- Implementing complex navigation flows and deep linking
-- Handling offline-first architecture and data synchronization
-- Optimizing app startup time, memory usage, and battery performance
-- Integrating Firebase, payment gateways, maps, and other third-party SDKs
-- Publishing apps to Google Play Store and Apple App Store
+- Crafting **production-ready Laravel applications** that are clean, modular, and maintainable  
+- Building **smooth, high-performance mobile apps** using **React Native CLI**  
+- Designing **intuitive UI/UX** that feels effortless to use  
+- Creating **cross-platform experiences** that don’t feel “cross-platform”  
+- Integrating third-party APIs and optimizing every layer of the stack  
+- Bridging the gap between web and mobile with shared logic and beautiful interfaces  
 
 ---
 
-## 🤝 Let's Connect
+### 📱 React Native CLI — My Mobile Playground
 
-* 📩 **Email**: [vaishnavi.deshmukh201@gmail.com](mailto:vaishnavi.deshmukh201@gmail.com)
-* 📍 **GitHub**: [@vaishnavid07](https://github.com/vaishnavid07)
-* 💼 **LinkedIn**: [Vaishnavi Deshmukh](https://www.linkedin.com/in/vaishnavideshmukh07/)
-* 🌐 **Portfolio**: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)
-* 🟢 **Peerlist**: [vaishnavid07](https://peerlist.io/vaishnavid07)
+I prefer the full power of **React Native CLI** over managed workflows.  
+Why? Because I like being close to the metal.
+
+Here’s what that looks like in practice:
+
+- Setting up and configuring native projects from scratch  
+- Writing or integrating custom native modules when JavaScript alone isn’t enough  
+- Building complex navigation systems with deep linking  
+- Handling offline storage, background tasks, and push notifications  
+- Optimizing performance (startup time, memory, animations)  
+- Shipping real apps to the **Google Play Store** and **App Store**
+
+I enjoy the challenge of making mobile apps that feel native, fast, and reliable — even when the requirements get complicated.
 
 ---
 
-Thanks for visiting! Feel free to check out my repositories, open issues, or collaborate on exciting projects — whether it's a web app or a mobile experience. Let’s build something amazing together. 🚀
+### 🚀 Let’s Build Something Cool Together
+
+Got an idea for a web app, a mobile product, or something in between?  
+I’m always open to collaboration, open-source contributions, or just geeking out over clean architecture.
+
+- 📩 **Email**: [vaishnavi.deshmukh201@gmail.com](mailto:vaishnavi.deshmukh201@gmail.com)  
+- 📍 **GitHub**: [@vaishnavid07](https://github.com/vaishnavid07)  
+- 💼 **LinkedIn**: [Vaishnavi Deshmukh](https://www.linkedin.com/in/vaishnavideshmukh07/)  
+- 🌐 **Portfolio**: [vaishnavi.is-a.dev](https://vaishnavi.is-a.dev)  
+- 🟢 **Peerlist**: [vaishnavid07](https://peerlist.io/vaishnavid07)
+
+---
+
+Thanks for stopping by!  
+Feel free to explore my repositories, open an issue, or drop a message.  
+
+**Let’s create something that people actually love using.** ✨
